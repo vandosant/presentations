@@ -1,2 +1,2 @@
 # webpack-slides
-[Hosted on github pages](http://vandosant.github.io/webpack-slides/)
+[vandosant.github.io/webpack-slides](http://vandosant.github.io/webpack-slides/)
